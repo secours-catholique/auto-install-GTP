@@ -1,4 +1,5 @@
 auto-install-GTP
 ================
 
-plugin pour installer un groupe de travail
+Plugin pour installer un groupe de travail, avec SPIP.
+
