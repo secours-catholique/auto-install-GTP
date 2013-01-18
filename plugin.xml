@@ -6,4 +6,5 @@
 	<etat>test</etat>
 	<description>Ce plugin active et met en place le service minimun</description>
 	<prefix>gtp</prefix>
+	<install>gtp.php</install>
 </plugin>
