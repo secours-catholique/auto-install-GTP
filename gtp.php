@@ -5,7 +5,7 @@
 
 //fonction qui permet de créer les métas de config du site
 function gtp_config_site() {	
-	ecrire_meta('activer_breves', 'non','non');
+	ecrire_meta('YAML','oui');
 	
 }
 ?>
